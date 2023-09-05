@@ -1,0 +1,8 @@
+.vscode
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+maintest.c
+makeMakefile
+PA1
+build
